@@ -54,5 +54,5 @@ A modular internal platform built for **Advanced Electrical Solutions** to strea
 ---
 
 ## 👷‍♂️ Built By
-Josias Ballard – AES electrician & cybersecurity student aiming to bridge tech with the trades.
+Josias Ballard – Computer Science student aiming to bridge tech with the trades.
 
